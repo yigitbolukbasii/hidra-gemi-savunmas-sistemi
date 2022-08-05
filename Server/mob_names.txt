@@ -1,0 +1,33 @@
+3401	Triton Murana
+3402	Köpekbalığı Askeri
+3404	Triton Avcı
+3405	Triton Usturacı
+3601	Yengeç Savaşçı
+3602	Akrep Savaşçı
+3603	Karides Asker
+3604	Şeytani Keşiş
+3605	Zırhlı Yengeç
+3949	Portal: Yeni kıta
+3950	Kappa
+3951	Lagun Kappası
+3952	Okyanus Kappası
+3953	Kappa lideri
+3954	Murana askeri
+3955	Okyanus Murana savaşçısı
+3956	Siren kraliçesi
+3957	Hidra'nın yavrusu
+3958	Hidra'nın yavrusu
+3959	Hidra'nın yavrusu
+3960	Hidra
+3961	Hidra
+3962	Hidra
+3963	Hidra
+3964	Hidra
+3965	Hidra'nın hazinesi
+3970	'
+20432	Hidra yumurtası
+20433	Savaşçı heykeli
+20434	Gemi direği
+20435	Meley'in izi
+20436	Dümen
+20437	Onarım tahtası
